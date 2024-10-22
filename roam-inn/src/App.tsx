@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
-import '../styling/App.css';
+import './styling/App.css';
 import Sidebar from './components/testComponent.tsx'; // Adjust the path based on where Sidebar.tsx is located
 
 function App() {
